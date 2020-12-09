@@ -10,8 +10,9 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 - 🌱 I’m currently learning Swift <img src="https://developer.apple.com/swift/images/swift-og.png" width="20px">
 - 💬 Ask me about anything, and I would love to help
 - ⚡ Fun fact: I once believed I couldn't whistle :notes: 
-<!--
-![Visitor Count](https://profile-counter.glitch.me/codejaeger/count.svg) visitor.
 
-Welcome to my profile! I am a 
--->
+
+
+A joke for you, before you leave
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
