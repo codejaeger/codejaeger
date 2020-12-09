@@ -1,25 +1,17 @@
-### Hola Amigo, I'm Deb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola Amigo! I'm Deb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=codejaeger.codejaeger)
 
 Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an enthusiastic open source contributor 🚀 and your friendly digital neighbour 🦸.
 
+
+**Let's first talk about some personal stuff:**
+
+- 🔭 I’m currently working on my cooking skills 🧑‍🍳
+- 🌱 I’m currently learning Swift <img src="https://developer.apple.com/swift/images/swift-og.png" width="20px">
+- 💬 Ask me about anything, and I would love to help
+- ⚡ Fun fact: I once believed I couldn't whistle :notes: 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/codejaeger/count.svg) visitor.
 
 Welcome to my profile! I am a 
--->
-
-<!--
-**codejaeger/codejaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
