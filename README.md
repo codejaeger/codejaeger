@@ -7,7 +7,7 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 
 - 🔭 I’m currently working on my cooking skills 🧑‍🍳
 - 🌱 Currently learning the Swift programming language <img src="https://developer.apple.com/swift/images/swift-og.png" width="20px">
-- 💬 Ask me about anything and I would love to help
+- 💬 Ask me about anything and I would love to share my opinions
 - ⚡ Fun fact: I once believed I couldn't whistle :notes: 
 
 ### I ❤️ working in
@@ -15,7 +15,7 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 * Computer Graphics
 * Computer Vision 
 
-### ⚒️ Tech and Tools that I use
+### ⚒️ Some Tech and Tools that I usually use
 
 
 ### 📫 How to reach me?
@@ -23,11 +23,11 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 
 ### 💬 Want to know more about me?
 
-You can find me on my  and on .
+<!--You can find me on my  and on .-->
 
 
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=codejaeger.codejaeger)
 
-A joke just for you, before you leave
+A joke for you, just before you leave
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
