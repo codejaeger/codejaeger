@@ -34,7 +34,10 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![Go](https://img.shields.io/badge/-GO-E34F26?style=plastic&logo=GO&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) </br>
+![C++11](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+![OpenGL](https://img.shields.io/badge/-OpenGL-006a71?style=plastic&logo=opengl)
+![WebGL](https://img.shields.io/badge/-WebGL-394989?style=plastic&logo=webgl)
   
 A joke just for you, before you leave
 
