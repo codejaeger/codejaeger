@@ -1,4 +1,8 @@
-## Hola Amigo! I'm Deb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hola Amigo! I'm Deb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=codejaeger.codejaeger">                            
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin]
 
 Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an enthusiastic open source contributor 🚀 and your friendly digital neighbour 🦸. I am experienced in C++, Java, Android Development, Machine learning, Javascript and ....
 
@@ -16,18 +20,16 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 * Computer Vision 
 
 ### ⚒️ Some Tech and Tools that I usually use
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 
-
-### 📫 How to reach me?
-
-
-### 💬 Want to know more about me?
-
-<!--You can find me on my  and on .-->
-
-
+<p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=codejaeger&show_icons=true" alt="codejaeger" /> </p>
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=codejaeger.codejaeger)
 
-A joke for you, just before you leave
+A joke just for you, before you leave
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[website]: https://bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[youtube]: https://youtube.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
