@@ -39,7 +39,7 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-006a71?style=plastic&logo=opengl)
 ![WebGL](https://img.shields.io/badge/-WebGL-394989?style=plastic&logo=webgl)
   
-A joke just for you, before you leave
+### :stuck_out_tongue_winking_eye: A joke just for you, before you leave
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
