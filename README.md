@@ -39,9 +39,10 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 A joke just for you, before you leave
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<p align="center" margin-top="0px"> <img align="center" src="https://github-readme-stats-five-lyart.vercel.app/api?username=codejaeger&show_icons=true" alt="codejaeger" /> </p>
 
-[website]: https://cse.iitb.ac.in/~debman
+<p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=codejaeger&show_icons=true" alt="codejaeger" /> </p>
+
+[website]: https://www.cse.iitb.ac.in/~debman/
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
