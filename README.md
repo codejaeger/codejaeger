@@ -19,17 +19,18 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 * Computer Graphics
 * Computer Vision 
 
-### ⚒️ Some Tech and Tools that I usually use
+### ⚒️ Some tech & tools that I usually use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5)
+
 
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=codejaeger&show_icons=true" alt="codejaeger" /> </p>
-![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=codejaeger.codejaeger)
 
 A joke just for you, before you leave
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
+[website]: https://cse.iitb.ac.in/~debman
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[linkedin]: https://linkedin.com/in/
