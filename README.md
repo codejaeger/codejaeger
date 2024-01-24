@@ -43,5 +43,5 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=codejaeger&show_icons=true" alt="codejaeger" /> </p>
 
-[website]: [https://www.cse.iitb.ac.in/~debman/](https://codejaeger.github.io/)
+[website]: https://codejaeger.github.io/
 [linkedin]: https://www.linkedin.com/in/debabrata-mandal-0702a0167/
