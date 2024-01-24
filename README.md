@@ -2,15 +2,15 @@
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
-Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an enthusiastic open source contributor 🚀 and your friendly digital neighbour 🦸. I am experienced in C++, Java, Android Development, Machine learning, Javascript and ....
+Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an enthusiastic open source contributor 🚀 and your friendly digital neighbour 🦸.
 
 
 ### A few quick facts about me:
 
-- 🔭 I’m currently working on my personal webpage.
-- 🌱 Currently learning the Swift programming language <img src="https://developer.apple.com/swift/images/swift-og.png" width="20px">
+- 🔭 I’m currently working on meta-optics and image restoration algorithms.
+- 🌱 Currently learning the Julia programming language.
 - 💬 Ask me about anything and I would love to share my opinions
-- ⚡ Fun fact: I once believed I couldn't whistle :notes: 
+- ⚡ Fun fact: I am always chasing the next hot topic!
 
 ### I ❤️ working in
 * Image Processing 
@@ -22,18 +22,11 @@ Welcome to my profile! I am a passionate software developer 👨🏽‍💻, an 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Java](https://img.shields.io/badge/-Java-grey?style=plastic&logo=Java)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=plastic&logo=MATLAB)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) </br>
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![Go](https://img.shields.io/badge/-GO-E34F26?style=plastic&logo=GO&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) </br>
-![C++11](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-006a71?style=plastic&logo=opengl)
 ![WebGL](https://img.shields.io/badge/-WebGL-394989?style=plastic&logo=webgl)
   
